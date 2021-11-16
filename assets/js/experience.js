@@ -4,11 +4,11 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Data Scientist",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    place: "United Airlines",
+    time: "(Oct, 2018 - present)",
+    desp: "<li>Chief Architect of Building Various Docuemnt Automation Models that saved United 1000s of Man hours and Millions of Dollars</li> <li>Build End to End Computer Vision Models for United Clubs/Airports to Optimtize Aiport Operations.</li> <li>Built Various NLP models to summarize Customer feedback that United recieved through multiple Channels.</li>",
   },
   {
     title: "Student Developer",
