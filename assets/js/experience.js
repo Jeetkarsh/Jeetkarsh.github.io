@@ -11,18 +11,18 @@ const exp = [
     desp: "<li>Chief Architect of Building Various Docuemnt Automation Models that saved United 1000s of Man hours and Millions of Dollars</li> <li>Build End to End Computer Vision Models for United Clubs/Airports to Optimtize Aiport Operations.</li> <li>Built Various NLP models to summarize Customer feedback that United recieved through multiple customer Channels.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Analytics Developer/Data Analyts",
+    cardImage: "assets/images/experience-page/TCS-1.jpg",
+    place: "TCS Analytics & Insights",
+    time: "(Sept 2015 - Sept, 2018)",
+    desp: "<li>Worked on Predicting sentiment (Positive,Negative,Neutral) of a input text using various deep learning techniques.</li><li>Worked on HRM (Human Reading Mechanism) to extract useful information (Summarization) from the field trials report and First Information Report (FIR).</li><li>Worked on Contract analytics to build Ontologies and Knowledge base for the contracts between two parties and extract out useful information (Like Currency and Dates).</li><li>Worked on a requirement to build the model to predict the sale price of a particular piece of heavy equipment in auction based on it's usage, equipment type, and configuration.</li><li>Worked for one of the leading Grocery Client to build a model for more accurately forecasting product sales which ultimately changed their subjective forecasting methods used before.</li><li>Built Scrapper for following Social websites Twitter, Facebook, Tumblr, Instagram, Wordpress, Google blog,Truecaller,Linkedin to pull data depending on specific data requirements.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Co-Founder",
+    cardImage: "assets/images/experience-page/Affey.jpg",
+    place: "Affey Inc",
+    time: "(Aug, 14 - Dec, 14)",
+    desp:"<li>Food Ordering Website that connected cutomers with local resturants for food.</li><li> 400 Unique Visitors Intreacted with the website for Placing Order</li>",
   },
 ];
 
