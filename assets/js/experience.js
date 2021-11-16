@@ -5,10 +5,10 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Scientist",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/United-logo.png",
     place: "United Airlines",
     time: "(Oct, 2018 - present)",
-    desp: "<li>Chief Architect of Building Various Docuemnt Automation Models that saved United 1000s of Man hours and Millions of Dollars</li> <li>Build End to End Computer Vision Models for United Clubs/Airports to Optimtize Aiport Operations.</li> <li>Built Various NLP models to summarize Customer feedback that United recieved through multiple Channels.</li>",
+    desp: "<li>Chief Architect of Building Various Docuemnt Automation Models that saved United 1000s of Man hours and Millions of Dollars</li> <li>Build End to End Computer Vision Models for United Clubs/Airports to Optimtize Aiport Operations.</li> <li>Built Various NLP models to summarize Customer feedback that United recieved through multiple customer Channels.</li>",
   },
   {
     title: "Student Developer",
